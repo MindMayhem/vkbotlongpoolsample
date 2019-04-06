@@ -2,7 +2,7 @@ import vk_api
 from vk_api.keyboard import VkKeyboard, VkKeyboardColor
 from vk_api.bot_longpoll import VkBotLongPoll, VkBotEventType
 
-token = 'ec00fcadeafd2757341651684a5e2fdbc2a419109a5975a79eda657b065f63d386758ff68c6026feeca7e'
+token = '*****'
 vk = vk_api.VkApi(token=token)
 vk._auth_token()
 
